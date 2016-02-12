@@ -1,2 +1,2 @@
 # hello-word
-Exploring git
+Hi! I'm exploring Git! I will sail the Mediterranean this summer. 

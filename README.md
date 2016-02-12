@@ -1,0 +1,2 @@
+# hello-word
+Exploring git
